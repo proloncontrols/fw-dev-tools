@@ -1,0 +1,4 @@
+<map id="srecord::quit_exception" name="srecord::quit_exception">
+<area shape="rect" id="node1" title="The quit_exception class is use to represent a quit handler which throws an exception,..." alt="" coords="5,79,163,104"/>
+<area shape="rect" id="node2" href="$classsrecord_1_1quit.html" title="The quit class is an abstract class for reporting error messages, both fatal and non&#45;fatal." alt="" coords="37,5,131,31"/>
+</map>

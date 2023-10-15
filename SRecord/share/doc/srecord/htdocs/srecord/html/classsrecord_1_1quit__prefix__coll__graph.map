@@ -1,0 +1,4 @@
+<map id="srecord::quit_prefix" name="srecord::quit_prefix">
+<area shape="rect" id="node1" title="The quit_prefix class is used to filter the messages issued to include a line prefix." alt="" coords="5,79,139,104"/>
+<area shape="rect" id="node2" href="$classsrecord_1_1quit.html" title="The quit class is an abstract class for reporting error messages, both fatal and non&#45;fatal." alt="" coords="25,5,119,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="srecord::input_file_mif" name="srecord::input_file_mif">
+<area shape="rect" id="node1" title="The srecord::input_file_mif class is used to represent the parse state when reading a Memory Initiali..." alt="" coords="5,152,156,177"/>
+<area shape="rect" id="node2" href="$classsrecord_1_1input__file.html" title="The srecord::input_file class is used to represent an generic input file." alt="" coords="18,79,143,104"/>
+<area shape="rect" id="node3" href="$classsrecord_1_1input.html" title="The srecord::input class is used to represent an abstract EPROM load file source." alt="" coords="30,5,131,31"/>
+</map>

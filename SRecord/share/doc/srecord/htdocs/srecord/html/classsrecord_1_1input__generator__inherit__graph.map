@@ -1,0 +1,7 @@
+<map id="srecord::input_generator" name="srecord::input_generator">
+<area shape="rect" id="node1" title="The srecord::input_generator class is used to represent the state of generating data from whole cloth..." alt="" coords="155,77,317,102"/>
+<area shape="rect" id="node3" href="$classsrecord_1_1input__generator__constant.html" title="The srecord::input_generator_constant class is used to represent the state of a data generator which ..." alt="" coords="365,5,528,45"/>
+<area shape="rect" id="node4" href="$classsrecord_1_1input__generator__random.html" title="The srecord::input_generator_random class is used to represent a factory which manufactures random da..." alt="" coords="365,69,528,109"/>
+<area shape="rect" id="node5" href="$classsrecord_1_1input__generator__repeat.html" title="The srecord::input_generator_repeat class is used to represent generating data which cycles over a fi..." alt="" coords="365,133,528,173"/>
+<area shape="rect" id="node2" href="$classsrecord_1_1input.html" title="The srecord::input class is used to represent an abstract EPROM load file source." alt="" coords="5,77,107,102"/>
+</map>

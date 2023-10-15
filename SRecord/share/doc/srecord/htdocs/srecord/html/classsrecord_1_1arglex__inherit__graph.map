@@ -1,0 +1,4 @@
+<map id="srecord::arglex" name="srecord::arglex">
+<area shape="rect" id="node1" title="The arglex class is used to implement a lexical analizer for command line arguments." alt="" coords="19,5,127,31"/>
+<area shape="rect" id="node2" href="$classsrecord_1_1arglex__tool.html" title="The srecord::arglex_tool is used to parse command line with srec&#45;specific arguments." alt="" coords="5,79,141,104"/>
+</map>

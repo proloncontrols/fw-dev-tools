@@ -1,0 +1,5 @@
+<map id="srecord::input_file_aomf" name="srecord::input_file_aomf">
+<area shape="rect" id="node1" title="The srecord::input_file_aomf class is used to parse Intel Absolute Object Module Format (AOMF) file." alt="" coords="5,152,167,177"/>
+<area shape="rect" id="node2" href="$classsrecord_1_1input__file.html" title="The srecord::input_file class is used to represent an generic input file." alt="" coords="23,79,149,104"/>
+<area shape="rect" id="node3" href="$classsrecord_1_1input.html" title="The srecord::input class is used to represent an abstract EPROM load file source." alt="" coords="35,5,137,31"/>
+</map>

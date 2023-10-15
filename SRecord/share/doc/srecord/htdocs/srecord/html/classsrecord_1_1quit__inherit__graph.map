@@ -1,0 +1,6 @@
+<map id="srecord::quit" name="srecord::quit">
+<area shape="rect" id="node1" title="The quit class is an abstract class for reporting error messages, both fatal and non&#45;fatal." alt="" coords="210,5,305,31"/>
+<area shape="rect" id="node2" href="$classsrecord_1_1quit__exception.html" title="The quit_exception class is use to represent a quit handler which throws an exception,..." alt="" coords="5,79,163,104"/>
+<area shape="rect" id="node3" href="$classsrecord_1_1quit__normal.html" title="The quit_normal class is used to represent a quit handler which behaves in the &quot;normal&quot; way: print er..." alt="" coords="187,79,327,104"/>
+<area shape="rect" id="node4" href="$classsrecord_1_1quit__prefix.html" title="The quit_prefix class is used to filter the messages issued to include a line prefix." alt="" coords="352,79,485,104"/>
+</map>

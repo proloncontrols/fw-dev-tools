@@ -1,0 +1,5 @@
+<map id="srecord::input_file_idt" name="srecord::input_file_idt">
+<area shape="rect" id="node1" title="The srecord::input_file_idt class is used to represent the parse state of a IDT/sim binary format inp..." alt="" coords="5,152,152,177"/>
+<area shape="rect" id="node2" href="$classsrecord_1_1input__file.html" title="The srecord::input_file class is used to represent an generic input file." alt="" coords="16,79,141,104"/>
+<area shape="rect" id="node3" href="$classsrecord_1_1input.html" title="The srecord::input class is used to represent an abstract EPROM load file source." alt="" coords="28,5,129,31"/>
+</map>
